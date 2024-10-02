@@ -1,0 +1,10 @@
+{
+  "endpoint": "/pngnotifier/",
+  "id": 1726745888,
+  "png_url": "url_to_png",
+  "invalid_png_url": "xyz",
+  "invalid_id": 17181,
+  "invalid_json_id_message": "'json_id' not found in the database",
+  "missing_json_id_message": "'json_id' was not provided",
+  "missing_png_url_message": "'png_url' was not provided"
+}
