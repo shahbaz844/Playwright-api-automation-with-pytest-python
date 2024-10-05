@@ -1,8 +1,8 @@
-# 🌟 MetaBull Project Automation🌟
+# 🌟 API Project Automation🌟
 
 ## Overview
 
-Welcome to the **MetaBull Automation Project**! This project leverages the power of [Playwright](https://playwright.dev/) and [pytest](https://docs.pytest.org/en/stable/) to automate the testing of MetaBull APIs. 🚀
+Welcome to the **API Automation Project**! This project leverages the power of [Playwright](https://playwright.dev/) and [pytest](https://docs.pytest.org/en/stable/) to automate the testing of MetaBull APIs. 🚀
 
 ## ⭐ Features
 
